@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Bottom Navigation</string>
+    <string name="chat">Chat</string>
+    <string name="contacts">Contacts</string>
+    <string name="call">Call</string>
+    <string name="profile">Profile</string>
 </resources>
